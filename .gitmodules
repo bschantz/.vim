@@ -1,0 +1,6 @@
+[submodule "bundle/PHP-Indenting-for-VIm"]
+	path = bundle/PHP-Indenting-for-VIm
+	url = git@github.com:2072/PHP-Indenting-for-VIm.git
+[submodule "bundle/vim-syntax-for-PHP"]
+	path = bundle/vim-syntax-for-PHP
+	url = git@github.com:2072/vim-syntax-for-PHP.git

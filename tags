@@ -1,0 +1,11 @@
+PHP_BracesAtCodeLevel	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*PHP_BracesAtCodeLevel*
+PHP_autoformatcomment	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*PHP_autoformatcomment*
+PHP_default_indenting	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*PHP_default_indenting*
+PHP_outdentSLComments	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*PHP_outdentSLComments*
+PHP_outdentphpescape	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*PHP_outdentphpescape*
+PHP_removeCRwhenUnix	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*PHP_removeCRwhenUnix*
+PHP_vintage_case_default_indent	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*PHP_vintage_case_default_indent*
+ft-php-indent	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*ft-php-indent*
+php-comment	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*php-comment*
+php-indent	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*php-indent*
+php-indenting	bundle/PHP-Indenting-for-VIm/doc/PHPIndent.txt	/*php-indenting*
